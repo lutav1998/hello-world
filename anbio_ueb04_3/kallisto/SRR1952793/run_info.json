@@ -1,0 +1,13 @@
+{
+	"n_targets": 66338,
+	"n_bootstraps": 0,
+	"n_processed": 42745641,
+	"n_pseudoaligned": 37400309,
+	"n_unique": 21026526,
+	"p_pseudoaligned": 87.5,
+	"p_unique": 49.2,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Fri Apr 24 18:25:57 2020",
+	"call": "kallisto/kallisto quant -i Reis -o SRR1952793 --single -l 200 -s 40 SRR1952793.fastq"
+}
